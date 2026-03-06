@@ -3,7 +3,7 @@ import requests
 import os
 
 # 깃허브 Secrets에서 정보 가져오기
-TOKEN = os.environ['TELEGRAM_TOKEN']
+TOKEN = os.environ['8792132626:AAE9kDbx2I39qbSjy6e4lVsFS4nTKsqTEuM']
 CHAT_ID = os.environ['TELEGRAM_CHAT_ID']
 
 def send_news():
